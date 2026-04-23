@@ -1,6 +1,6 @@
 # AI-Driven Risk Assessment and Insurance Premium Prediction
 **Paper ID:** ICIICS0893  
-**Conference:** International Conference on Intelligent and Innovative Computing Systems (ICIICS 2025)  
+**Conference:** International Conference on Intelligent and Innovative Computing Systems (ICIICS 2026)  
 **Authors:** Gunda Sai Sathvik Reddy, Bingi Rakesh  
 **Guide:** S. Hariharasudhan, Dept. of CSE, Vel Tech R&D Institute, Chennai
 
