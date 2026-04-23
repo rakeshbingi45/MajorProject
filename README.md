@@ -18,6 +18,8 @@ insurance_project/
 ├── models/                   # Saved model artifacts
 ├── outputs/                  # Plots and evaluation results
 ├── train.py                  # Main training pipeline
+├── static/
+│   ├── index.html 
 ├── requirements.txt
 └── README.md
 ```
